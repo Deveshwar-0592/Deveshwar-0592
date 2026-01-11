@@ -85,12 +85,11 @@
   <h2 align="center">📈 GitHub Analytics</h2>
   
   <p align="center">
-    <a href="https://github.com/Deveshwar-U">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deveshwar-U&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c3ff&icon_color=bd00ff" />
+    <a href="https://github.com/Deveshwar-0592">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deveshwar-0592&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c3ff&icon_color=bd00ff" />
     </a>
-    
-    <a href="https://github.com/Deveshwar-U">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshwar-U&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c3ff&icon_color=bd00ff" />
+    <a href="https://github.com/Deveshwar-0592">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshwar-0592&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c3ff&icon_color=bd00ff" />
     </a>
   </p>
 
