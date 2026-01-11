@@ -69,13 +69,14 @@ Seeking **Microsoft Explore Intern** role to develop engineering, communication,
 
 ## 🔥 GitHub Stats (Neon Mode)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deveshwar-0592&theme=neon-dark&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Deveshwar-0592&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deveshwar-0592&theme=neon-dark&hide_border=true&cache_seconds=7200" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deveshwar-0592&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshwar-0592&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshwar-0592&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" width="45%"/>
 </p>
+
 
 ---
 
