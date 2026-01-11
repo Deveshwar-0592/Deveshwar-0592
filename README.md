@@ -86,10 +86,11 @@
   
   <p align="center">
     <a href="https://github.com/Deveshwar-0592">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deveshwar-0592&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c3ff&icon_color=bd00ff" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Deveshwar-0592&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c3ff&icon_color=bd00ff" />
     </a>
+    
     <a href="https://github.com/Deveshwar-0592">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshwar-0592&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c3ff&icon_color=bd00ff" />
+      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Deveshwar-0592&theme=radical&hide_border=true&background=0d1117&ring=bd00ff&fire=00c3ff&currStreakLabel=00c3ff" />
     </a>
   </p>
 
